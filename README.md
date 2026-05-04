@@ -56,5 +56,5 @@ Training Planner — это десктопное GUI-приложение для
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/Marish56/training-planner.git
-cd training-planner
+git clone https://github.com/Marish56/training_planner.git
+cd training_planner
